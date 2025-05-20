@@ -1,4 +1,4 @@
-public abstract class FixedAsset implements Valuable{
+public abstract class FixedAsset implements Valuable {
     protected String name;
     protected double marketValue;
 
